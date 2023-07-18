@@ -1,1 +1,3 @@
-
+- Hi, I'm Omojuwa Oluwaseun, a data analyst skilled in Microsoft Excel, PowerBI, and SQL. 
+- As a passionate data analytics enthusiast, I am eager to collaborate on projects that leverage the power of data to uncover insights and drive informed decision-making. 
+- With a strong interest in roles related to data analysis, I bring a curious mindset, analytical skills, and a dedication to continuously learn and contribute to the field. Let's create data-driven solutions together!
